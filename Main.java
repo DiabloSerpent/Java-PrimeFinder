@@ -18,7 +18,7 @@ import java.util.ArrayList;
 /*I have now sacrificed this program to the Git gods, to
 see if I could make a Github repo for a repl.it project
 without having to make a new repl and delete the save
-history.
+history (on repl.it).
 */
 
 class Main {
