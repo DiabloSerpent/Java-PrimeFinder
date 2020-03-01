@@ -14,6 +14,13 @@ import java.util.ArrayList;
 //Another test here ran only 1:16, about the same as the
 //original, so maybe connection strength plays into this
 //as well. That's kind of annoying.
+
+/*I have now sacrificed this program to the Git gods, to
+see if I could make a Github repo for a repl.it project
+without having to make a new repl and delete the save
+history.
+*/
+
 class Main {
   public static void main(String[] args) {
     Scanner noReader = new Scanner(System.in);
